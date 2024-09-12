@@ -1,5 +1,5 @@
 # 官網註冊
-Google / Github
+可直接使用 Google / Github 帳號直接sso 開通
 # 安裝
 pip install wandb
 # login
