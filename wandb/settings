@@ -1,0 +1,5 @@
+[default]
+entity = nchc
+project = hi
+base_url = https://api.wandb.ai
+
